@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: ivtools
+Version: 0.1
+Summary: Tools for processing and analyzing current-voltage (IV) data.
+Author: Benjamin H. Ellis
+Requires-Dist: pvlib
+Requires-Dist: cufflinks
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: plotly
+Requires-Dist: scikit_learn
